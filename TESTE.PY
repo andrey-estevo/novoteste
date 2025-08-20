@@ -1,1 +1,2 @@
 NOME = "ANDREY"
+nome = "ADRIANO"
